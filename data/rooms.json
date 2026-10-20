@@ -1,0 +1,44 @@
+[
+  {
+    "room": "A-101",
+    "building": "A",
+    "capacity": 80,
+    "type": "lecture"
+  },
+  {
+    "room": "A-205",
+    "building": "A",
+    "capacity": 30,
+    "type": "practice"
+  },
+  {
+    "room": "B-201",
+    "building": "B",
+    "capacity": 25,
+    "type": "lab"
+  },
+  {
+    "room": "B-202",
+    "building": "B",
+    "capacity": 25,
+    "type": "lab"
+  },
+  {
+    "room": "B-305",
+    "building": "B",
+    "capacity": 30,
+    "type": "practice"
+  },
+  {
+    "room": "C-110",
+    "building": "C",
+    "capacity": 60,
+    "type": "lecture"
+  },
+  {
+    "room": "GYM",
+    "building": "C",
+    "capacity": 40,
+    "type": "sport"
+  }
+]

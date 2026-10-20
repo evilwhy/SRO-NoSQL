@@ -1,0 +1,38 @@
+[
+  {
+    "code": "IS-31",
+    "course": 3,
+    "faculty": "Информационные системы",
+    "students": 24
+  },
+  {
+    "code": "IS-32",
+    "course": 3,
+    "faculty": "Информационные системы",
+    "students": 22
+  },
+  {
+    "code": "IS-33",
+    "course": 3,
+    "faculty": "Информационные системы",
+    "students": 20
+  },
+  {
+    "code": "CS-21",
+    "course": 2,
+    "faculty": "Computer Science",
+    "students": 27
+  },
+  {
+    "code": "SE-22",
+    "course": 2,
+    "faculty": "Software Engineering",
+    "students": 25
+  },
+  {
+    "code": "IT-41",
+    "course": 4,
+    "faculty": "Информационные технологии",
+    "students": 18
+  }
+]
